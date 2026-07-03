@@ -64,7 +64,7 @@ const USER_TYPES = [
   {
     id: "developer",
     label: "Developer / Basis",
-    weight: 1.5,
+    weight: 2.0,
     description: "Technical access — development, transport management, system administration",
     examples: ["ABAP developers", "Basis administrators", "Security admins"],
     tcodes: ["SE80", "STMS", "SU01", "SM21", "DB02"],
